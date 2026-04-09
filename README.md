@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 Software Engineering Student • 🤖 AI Enthusiast • ☁️ DevOps Explorer  
+  💻 Software Engineer • 🤖 AI Enthusiast • ☁️ DevOps Explorer  
 </p>
 
 <p align="center">
