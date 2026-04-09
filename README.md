@@ -25,7 +25,7 @@
 
 ```yaml
 name: Ranim Ben Amara
-role: Future Software Engineer (AI / Data / Cloud)
+role: Software Engineer (AI / Data / Cloud)
 education:
   - MedTech (SMU) — Software Engineering
   - CESI France — Exchange Program
