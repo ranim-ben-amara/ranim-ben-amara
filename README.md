@@ -134,7 +134,8 @@ languages: [French, English, Arabic]
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranim-ben-amara&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=ranim-ben-amara&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sage-six-40.vercel.app/api?username=ranim-ben-amara&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranim-ben-amara&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
