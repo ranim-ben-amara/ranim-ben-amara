@@ -34,45 +34,81 @@ languages: [French, English, Arabic]
 
 ## 🧰 Tech Stack
 
+### 🧠 Core
+
 <p align="center">
-
-💻 **Languages** <br> <img src="https://skillicons.dev/icons?i=python,cpp,js,java,bash" />
-
-📊 **Data & AI/ML** <br> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-🌐 **Web & Mobile** <br> <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
-
-☁️ **Cloud & DevOps** <br> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
-
-🗄️ **Databases** <br> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="40"/></a>
+  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" height="40"/></a>
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40"/></a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### 🤖 AI & Data
 
-### 🧬 Colorectal Cancer Detection
-
-> AI-powered bioinformatics pipeline
-
-* 🧠 Genomic NLP + ML → **83% accuracy**
-* ⚙️ Fully automated DNA sequence processing
-* 🏆 Best Senior Project — SMU 2025
-
-🔗 [https://github.com/aramelheni/ColorectalCancer-Detection](https://github.com/aramelheni/ColorectalCancer-Detection)
+<p align="center">
+  <a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/></a>
+  <a href="https://numpy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/></a>
+  <a href="https://scikit-learn.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/></a>
+  <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" height="40"/></a>
+  <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" height="40"/></a>
+  <a href="https://keras.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/></a>
+  <a href="https://powerbi.microsoft.com"><img src="https://img.icons8.com/color/48/power-bi.png" height="40"/></a>
+</p>
 
 ---
 
-### ⚡ Data Flow Optimization
+### 🌐 Backend & Web
 
-> Smart network + caching system
+<p align="center">
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="40"/></a>
+  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" height="40"/></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="40"/></a>
+  <a href="https://reactnative.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/></a>
+  <a href="https://kotlinlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/></a>
+</p>
 
-* 📉 **-52% bandwidth usage**
-* 📡 Real-time monitoring (MERN + Wireshark)
-* 🏆 Best Sophomore Project — SMU 2023
+---
 
-🔗 [https://github.com/slimskhab/DistroPackageManager](https://github.com/slimskhab/DistroPackageManager)
+### ☁️ Cloud & Infrastructure
+
+<p align="center">
+  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="40"/></a>
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="40"/></a>
+  <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Extract,_transform,__load"><img src="https://img.icons8.com/external-flat-juicy-fish/48/external-data-data-science-flat-flat-juicy-fish.png" height="40"/></a>
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="center">
+  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="40"/></a>
+  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="40"/></a>
+  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" height="40"/></a>
+  <a href="https://cassandra.apache.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="40"/></a>
+</p>
+
+---
+
+### ⚙️ Tools
+
+<p align="center">
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="40"/></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" height="40"/></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/></a>
+  <a href="https://www.wireshark.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40"/></a>
+  <a href="https://www.virtualbox.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/></a>
+</p>
+
+---
+
+## 📌 Projects
+
+✨ Check out my pinned repositories below for featured work in AI, data systems, and optimization.
 
 ---
 
