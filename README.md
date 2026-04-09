@@ -1,7 +1,15 @@
 # ✨ Hi, I'm Ranim Ben Amara
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Data+Engineering+Enthusiast;Building+Scalable+Tech+Solutions" />
+</p>
+
+<p align="center">
   💻 Software Engineering Student • 🤖 AI Enthusiast • ☁️ DevOps Explorer  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ranim-ben-amara&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -17,6 +25,7 @@
 
 ```yaml
 name: Ranim Ben Amara
+role: Future Software Engineer (AI / Data / Cloud)
 education:
   - MedTech (SMU) — Software Engineering
   - CESI France — Exchange Program
@@ -77,7 +86,7 @@ languages: [French, English, Arabic]
   <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="40"/></a>
   <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="40"/></a>
   <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" height="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/Extract,_transform,__load"><img src="https://img.icons8.com/external-flat-juicy-fish/48/external-data-data-science-flat-flat-juicy-fish.png" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load"><img src="https://img.icons8.com/external-flat-juicy-fish/48/external-data-data-science-flat-flat-juicy-fish.png" height="40"/></a>
 </p>
 
 ---
@@ -108,20 +117,15 @@ languages: [French, English, Arabic]
 
 ## 📌 Projects
 
-✨ Check out my pinned repositories below for featured work in AI, data systems, and optimization.
+✨ Check out my **pinned repositories** below for featured work in AI, data systems, and optimization.
 
 ---
 
 ## 💼 Experience Snapshot
 
-✨ **DevOps Intern**
-→ AWS migration + scalable pipelines (**99.9% uptime**)
-
-✨ **Software Engineer Intern**
-→ Built React dashboard (**+41% KPI visibility**)
-
-✨ **Entrepreneurial Coach**
-→ Mentored 15+ startup projects
+✨ **DevOps Intern** → AWS + scalable pipelines (**99.9% uptime**)
+✨ **Software Engineer Intern** → React dashboards (**+41% KPI visibility**)
+✨ **Entrepreneurial Coach** → 15+ startup projects
 
 ---
 
@@ -147,4 +151,4 @@ languages: [French, English, Arabic]
 
 ---
 
-💫 *“Building intelligent systems at the intersection of data, tech, and impact.”*
+💫 *Building intelligent systems at the intersection of data, tech, and impact.*
