@@ -109,7 +109,7 @@ languages: [French, English, Arabic]
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
   <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" height="40"/></a>
   <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/></a>
-  <a href="https://www.wireshark.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40"/></a>
+  <a href="https://www.wireshark.org"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png?_=20230509085415" height="40"/></a>
   <a href="https://www.virtualbox.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/></a>
 </p>
 
@@ -124,7 +124,9 @@ languages: [French, English, Arabic]
 ## 💼 Experience Snapshot
 
 ✨ **DevOps Intern** → AWS + scalable pipelines (**99.9% uptime**)
+
 ✨ **Software Engineer Intern** → React dashboards (**+41% KPI visibility**)
+
 ✨ **Entrepreneurial Coach** → 15+ startup projects
 
 ---
